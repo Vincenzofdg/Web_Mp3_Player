@@ -1,0 +1,1 @@
+export const CHAR = [3, 8];
